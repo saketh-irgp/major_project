@@ -1,0 +1,6 @@
+names:
+  0: fall
+  1: person
+
+train: train/images
+val: valid/images
